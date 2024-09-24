@@ -1,0 +1,23 @@
+{
+    "OS": [
+        {
+            "id": 1,
+            "name": "DelusionOS",
+            "version": "0.9.6",
+            "releaseDate": "2024-10-12",
+            "developer": "Delusion LLC",
+            "features": [
+                "Intuitive interface",
+                "Low Latency or InputLag",
+                "High Perfomance",
+                "Regular updates"
+            ],
+            "systemRequirements": {
+                "cpu": "2 GHz or up",
+                "ram": "4 GB or up",
+                "storage": "20 GB free space"
+            },
+            "description": "DelusionOS - Created is the ultimate Windows for gaming with low latency and improved performance."
+        }
+    ]
+}
